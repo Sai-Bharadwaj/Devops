@@ -1,0 +1,4 @@
+dddds
+
+this is newly added line after adding to staging area
+new line after commit
